@@ -1,0 +1,7 @@
+C:\Users\jsims\source\repos\Date Difference\Date Difference\bin\Debug\Date Difference.exe.config
+C:\Users\jsims\source\repos\Date Difference\Date Difference\bin\Debug\Date Difference.exe
+C:\Users\jsims\source\repos\Date Difference\Date Difference\bin\Debug\Date Difference.pdb
+C:\Users\jsims\source\repos\Date Difference\Date Difference\obj\Debug\Date Difference.csprojAssemblyReference.cache
+C:\Users\jsims\source\repos\Date Difference\Date Difference\obj\Debug\Date Difference.csproj.CoreCompileInputs.cache
+C:\Users\jsims\source\repos\Date Difference\Date Difference\obj\Debug\Date Difference.exe
+C:\Users\jsims\source\repos\Date Difference\Date Difference\obj\Debug\Date Difference.pdb
